@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset='UTF-8'/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>{{ page.title }} — {{ site.title }}</title>
+
+  <link href='{{ site.baseurl }}/assets/css/main.css' rel='stylesheet' />
+
+  <link rel='alternate' type='application/rss+xml' title='RSS' href='{{ site.baseurl }}/feed/index.xml' />
+</head>
+<body>
+  <header>
+    <h1 class='title'>
+      <a class="no-url" href='{{site.baseurl}}/'>{{site.title}}</a>
+    </h1>
+    <nav>
+      <ul>
+        <li {% if page.section == "blog" %}class='active'{% endif %}>
+          <a href='{{ site.baseurl }}/'>Blog</a>
+        </li>
+
+        {% for item in site.pages %}
+          {% if item.title %}
+            <li {% if page.url == item.url %}class='selected'{% endif %}>
+              <a href='{{ site.baseurl }}{{ item.url }}'>{{ item.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+        
+  <main>
+    {{content}}
+  </main>
+
+  <footer class="supplement">
+    Built using Jekyll. Hosted using GitHub Pages. <a href="{{site.base_url}}/index.xml">Follow me using RSS</a>.
+  </footer>
+</body>
+</html>

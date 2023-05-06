@@ -1,0 +1,16 @@
+---
+title: When worlds collide
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+baseurl: ''
+permalink: pretty
+paginate: 10
+paginate_path: "/blog/page/:num/"
+plugins:
+- jekyll-paginate
