@@ -2,12 +2,28 @@
 title: When worlds collide
 timezone: UTC
 collections:
+  pages:
+    title: Pages
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
 baseurl: ''
 permalink: pretty
 paginate: 10
