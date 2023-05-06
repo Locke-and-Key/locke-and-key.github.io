@@ -11,19 +11,17 @@ collections:
   uploads:
     title: Uploads
     output: true
-
 defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "blog"
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: blog
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
 baseurl: ''
 permalink: pretty
 paginate: 10
