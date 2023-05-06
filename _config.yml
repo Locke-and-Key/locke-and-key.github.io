@@ -20,6 +20,7 @@ defaults:
     path: ''
   values:
     layout: page
+description: 
 baseurl: ''
 permalink: pretty
 paginate: 10
