@@ -15,9 +15,9 @@ defaults:
   values:
     layout: blog
 - scope:
-    path: ""
+    path: ''
   values:
-      layout: "page"
+    layout: page
 baseurl: ''
 permalink: pretty
 paginate: 10
