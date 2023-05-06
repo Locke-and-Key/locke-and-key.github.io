@@ -1,6 +1,6 @@
 ---
 title: When worlds collide
-timezone: UTC
+timezone: Europe/Amsterdam
 collections:
   posts:
     title: Posts
@@ -20,7 +20,7 @@ defaults:
     layout: page
 description: 
 domain: https://locke-and-key.github.io
-baseurl: ''
+baseurl: 
 permalink: pretty
 paginate: 10
 paginate_path: "/posts/page/:num/"
