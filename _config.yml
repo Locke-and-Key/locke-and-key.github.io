@@ -1,6 +1,5 @@
 ---
 title: When worlds collide
-description: 
 timezone: UTC
 collections:
   posts:
@@ -19,6 +18,7 @@ defaults:
     path: ''
   values:
     layout: page
+description: 
 baseurl: ''
 permalink: pretty
 paginate: 10
