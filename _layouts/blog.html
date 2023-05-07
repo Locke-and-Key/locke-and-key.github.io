@@ -23,3 +23,11 @@ section: blog
     {{content}}
   </section>
 </article>
+
+{% if page.comments %}
+  <hr>
+
+  <h2>Comments</h2>
+
+  {% include comments.html %}
+{% endif %}
