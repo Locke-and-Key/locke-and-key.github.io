@@ -1,0 +1,32 @@
+.clouds-outer {
+  position: relative;
+}
+
+.cloud,
+.cloud2 {
+  z-index: -10;
+  animation: move 6s ease infinite;
+  border-radius: 50%;
+  position: absolute;
+  top: 6vh;
+  left: 70vh;
+  margin-top: -30px;
+  margin-left: -30px;
+  background: #ffffff;
+  height: 60px;
+  width: 60px;
+  box-shadow: #ffffff 65px -15px 0 -5px, #ffffff 25px -25px, #ffffff 30px 10px,
+    #ffffff 60px 15px 0 -10px, #ffffff 85px 5px 0 -5px;
+}
+
+.cloud2 {
+  top: 0;
+  left: 10px;
+  animation-duration: 8s;
+}
+
+@keyframes move {
+  50% {
+    transform: translateY(-15px);
+  }
+}

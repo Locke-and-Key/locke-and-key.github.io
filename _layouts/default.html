@@ -12,33 +12,12 @@
   <link rel='alternate' type='application/rss+xml' title='RSS' href='{{ site.baseurl }}/feed/index.xml' />
 </head>
 <body>
-  <header>
-    <h1 class='title'>
-      <a class="no-url" href='{{ site.baseurl }}/'>{{site.title}}</a>
-    </h1>
-    <nav>
-      <ul>
-        <li {% if page.section == "blog" %}class='active'{% endif %}>
-          <a href='{{ site.baseurl }}/'>Blog</a>
-        </li>
-
-        {% for item in site.pages %}
-          {% if item.title %}
-            <li {% if page.url == item.url %}class='selected'{% endif %}>
-              <a href='{{ site.baseurl }}{{ item.url }}'>{{ item.title }}</a>
-            </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </nav>
-  </header>
+  {% include header.html %}
         
   <main>
     {{content}}
   </main>
 
-  <footer class="supplement">
-    Built using Jekyll. Hosted using GitHub Pages. <a href="{{site.base_url}}/feed/index.xml">Follow me using RSS</a>.
-  </footer>
+  {% include footer.html %}
 </body>
 </html>

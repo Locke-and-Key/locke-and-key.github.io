@@ -1,0 +1,22 @@
+<header>
+  <h1 class='title clouds-outer'>
+    <span class="cloud"></span>
+    <span class="cloud2"></span>
+    <a class="no-url" href='{{ site.baseurl }}/'>{{site.title}}</a>
+  </h1>
+  <nav>
+    <ul>
+      <li {% if page.section == "blog" %}class='active'{% endif %}>
+        <a href='{{ site.baseurl }}/'>Blog</a>
+      </li>
+
+      {% for item in site.pages %}
+        {% if item.title %}
+          <li {% if page.url == item.url %}class='selected'{% endif %}>
+            <a href='{{ site.baseurl }}{{ item.url }}'>{{ item.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

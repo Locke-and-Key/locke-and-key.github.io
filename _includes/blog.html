@@ -1,0 +1,24 @@
+<section class="h-feed">
+  <h2>Blog</h2>
+
+  {% for post in site.posts limit:10 %}
+    {% capture date %}{{ post.date | date: '%B %Y' }}{% endcapture %}
+    {% capture ndate %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
+
+    {% if date != ndate %}
+      <h3 hidden>{{ post.date | date: '%B %Y' }}</h3>
+    {% endif %}
+    
+    <section class="h-entry">
+      <a class="u-url no-url" href='{{ site.baseurl }}{{ post.url }}'>
+        <hgroup>
+          <h4 class="p-title">
+            {{ post.title }}
+          </h4>
+          <p class='dt-published'>&#126; {{ post.date | date:"%b %d" }}</p>
+        </hgroup>
+      </a>
+    </section>
+  {% endfor %}
+</section>
+

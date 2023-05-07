@@ -1,0 +1,28 @@
+<section class="h-feed">  
+  <ul>
+    {% capture first %}{{ true }}{% endcapture %}
+    {% for post in site.posts limit:10 %}
+      {% capture date %}{{ post.date | date: '%B %Y' }}{% endcapture %}
+      {% capture ndate %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
+
+      {% if date != ndate %}
+        {% unless first %}
+          </ul></li>
+          {% capture first %}{{ false }}{% endcapture %}
+        {% endunless %}
+
+        <li>{{ post.date | date: '%B %Y' }}<ul>
+      {% endif %}
+      
+      
+      <li class="h-entry">
+        <a class="u-url no-url" href='{{ site.baseurl }}{{ post.url }}'>
+            {{ post.title }}
+            <span class='dt-published'>&#126; {{ post.date | date:"%b %d" }}</span>
+        </a>
+      </li>
+    {% endfor %}
+    </ul></li>
+  </ul>
+</section>
+  
