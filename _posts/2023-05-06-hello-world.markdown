@@ -10,3 +10,4 @@ This is a new blog I built for my girlfriend. It runs on Jekyll on GitHub Pages,
 It also gives my girlfriend the ability to manage the blog herself with ease through the Siteleaf UI. And best of all: it's all free, and every component (source hosting, static hosting, CMS) can be easily swapped later.
 
 Yay!
+:)
