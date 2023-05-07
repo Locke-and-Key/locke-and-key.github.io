@@ -19,7 +19,7 @@ defaults:
   values:
     layout: page
 description: 
-copright: 
+copyright: 
 domain: https://locke-and-key.github.io
 baseurl: 
 permalink: pretty
