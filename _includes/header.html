@@ -11,13 +11,11 @@
       </li>
 
       {% for item in site.pages %}
-        {% if item.url != "/" %}
-          {% if item.title %}
-            <li {% if page.url == item.url %}class='selected'{% endif %}>
-              <a href='{{ site.baseurl }}{{ item.url }}'>{{ item.title }}</a>
-            </li>
-          {% endif %}
-        {% endif }
+        {% if item.title and item.url != "/" %}
+          <li {% if page.url == item.url %}class='selected'{% endif %}>
+            <a href='{{ site.baseurl }}{{ item.url }}'>{{ item.title }}</a>
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </nav>
