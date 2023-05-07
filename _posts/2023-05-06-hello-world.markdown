@@ -1,6 +1,6 @@
 ---
 title: Hello world
-date: 2023-05-06 08:27:00 Z
+date: 2023-05-06 10:27:00 +02:00
 ---
 
 Hi! This is the first post, and also first test to see if it works.
