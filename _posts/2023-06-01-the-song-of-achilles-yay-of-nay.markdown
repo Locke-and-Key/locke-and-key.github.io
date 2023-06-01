@@ -12,7 +12,7 @@ Het verhaal "volgt" de mythe van de Trojaanse oorlog. Ik zal het verhaal kort ve
 
 Persoonlijk vind ik "The song of Achilles" een verschrikkelijk boek. Ik zal hieronder zetten waarom, zodat je je eigen mening kan vormen.
 
-Zoals je kunt zien heb ik het woord volgen in de samenvatting tussen aanhalingstekens gezet. Waarom? Omdat het verhaal de mythe niet helemaal volgt. Het plot is eigenlijk de mythe + een zoetsappige relatie tussen Patroclus en Achilles. Hierbij heeft de schrijfster Patroclus zijn persoonlijkheid en prestaties gewoon compleet laten vallen voor haar "ideale" roman. 
+Zoals je kunt zien heb ik het woord "volgen" in de samenvatting tussen aanhalingstekens gezet. Waarom? Omdat het verhaal de mythe niet helemaal volgt. Het plot is eigenlijk de mythe + een zoetsappige relatie tussen Patroclus en Achilles. Hierbij heeft de schrijfster Patroclus zijn persoonlijkheid en prestaties gewoon compleet laten vallen voor haar "ideale" roman. 
 
 Persoonlijk ben ik geen fan van de schrijf stijl die Madeline Miller gebruikt. Maar ik heb nu wel geleerd dat er 7 manieren zijn om te zeggen dat de hoofdpersoon zich op een zandpad bevindt. Vele mensen zeggen dat er verschrikkelijk veel emotie vrijkomt als je dit boek leest. Ik heb hier geen seconden last van gehad. Het is best lastig om mee te leven met personages die amper een persoonlijkheid hebben. 
 
