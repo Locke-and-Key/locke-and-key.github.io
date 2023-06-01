@@ -12,11 +12,11 @@
   left: 70vh;
   margin-top: -30px;
   margin-left: -30px;
-  background: #ffffff;
+  background: #b8e6f6;
   height: 60px;
   width: 60px;
-  box-shadow: #ffffff 65px -15px 0 -5px, #ffffff 25px -25px, #ffffff 30px 10px,
-    #ffffff 60px 15px 0 -10px, #ffffff 85px 5px 0 -5px;
+  box-shadow: #b8e6f6 65px -15px 0 -5px, #b8e6f6 25px -25px, #b8e6f6 30px 10px,
+    #b8e6f6 60px 15px 0 -10px, #b8e6f6 85px 5px 0 -5px;
 }
 
 .cloud2 {
