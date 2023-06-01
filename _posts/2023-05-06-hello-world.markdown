@@ -1,6 +1,7 @@
 ---
 title: Hello world
 date: 2023-05-06 10:27:00 +02:00
+published: false
 ---
 
 Hi! This is the first post, and also first test to see if it works.
