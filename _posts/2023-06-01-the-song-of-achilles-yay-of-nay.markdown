@@ -14,10 +14,10 @@ Persoonlijk vind ik "The song of Achilles" een verschrikkelijk boek. Ik zal hier
 
 Zoals je kunt zien heb ik het woord "volgen" in de samenvatting tussen aanhalingstekens gezet. Waarom? Omdat het verhaal de mythe niet helemaal volgt. Het plot is eigenlijk de mythe + een zoetsappige relatie tussen Patroclus en Achilles. Hierbij heeft de schrijfster Patroclus zijn persoonlijkheid en prestaties gewoon compleet laten vallen voor haar "ideale" roman. 
 
-Persoonlijk ben ik geen fan van de schrijf stijl die Madeline Miller gebruikt. Maar ik heb nu wel geleerd dat er 7 manieren zijn om te zeggen dat de hoofdpersoon zich op een zandpad bevindt. Vele mensen zeggen dat er verschrikkelijk veel emotie vrijkomt als je dit boek leest. Ik heb hier geen seconden last van gehad. Het is best lastig om mee te leven met personages die amper een persoonlijkheid hebben. 
+Persoonlijk ben ik geen fan van de schrijfstijl die Madeline Miller gebruikt. Maar ik heb nu wel geleerd dat er 7 manieren zijn om te zeggen dat de hoofdpersoon zich op een zandpad bevindt. Vele mensen zeggen dat er verschrikkelijk veel emotie vrijkomt als je dit boek leest. Ik heb hier geen seconde last van gehad. Het is best lastig om mee te leven met personages die amper een persoonlijkheid hebben. 
 
 Ook is het boek redelijk seksistisch geschreven. Alle mannen in het boek worden afgebeeld als groot, sterk of in ieder geval krachtig op een andere manier. Terwijl alle vrouwen worden omschreven als objecten voor seks of verwende nesten. 
 
-Al met al vind ik dit boek een verspild potentieel. Het verhaal was saai. De personages miste hun persoonlijkheid en het boek hield maar niet op. Daarnaast is het boek seksistisch. Ik geef het boek een 1.2/5. Ik raad het boek dan ook niet aan. Ik vind "The song of Achilles" een nay. Als je dit boek toch wel wilt lezen wens ik je veel plezier en ook zeker veel succes! 
+Al met al vind ik dit boek een verspild potentieel. Het verhaal was saai. De personages misten hun persoonlijkheid en het boek hield maar niet op. Daarnaast is het boek seksistisch. Ik geef het boek een 1.2/5. Ik raad het boek dan ook niet aan. Ik vind "The song of Achilles" een nay. Als je dit boek toch wel wilt lezen wens ik je veel plezier en ook zeker veel succes! 
 
 Groetjes :) 
