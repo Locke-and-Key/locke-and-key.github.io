@@ -1,15 +1,15 @@
-<div id="disqus_thread"></div>
-<script>
-    var disqus_config = function () {
-      this.page.url = {{ page.url }};  
-      this.page.identifier = {{ page.url }};
-    };
+<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
 
-    (function() {
-    var d = document, s = d.createElement('script');
-    s.src = 'https://haileys-blog.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
+
+<div id="comment-section"></div>
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+  serverName: "cactus.chat",
+  siteName: "haileysblog",
+  commentSectionId: "{{ page.url }}"
+})
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://cactus.chat" rel="nofollow">comments powered by matrix.org</a>.</noscript>
