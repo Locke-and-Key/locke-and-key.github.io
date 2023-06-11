@@ -13,7 +13,7 @@ defaults:
     path: ''
     type: posts
   values:
-    comments: false
+    comments: true
     layout: blog
 - scope:
     path: ''
