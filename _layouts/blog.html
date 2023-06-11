@@ -27,7 +27,9 @@ section: blog
 {% if page.comments %}
   <hr>
 
-  <h2>Comments</h2>
+  <section class="comment-section">
+    <h2>Comments</h2>
 
-  {% include comments.html %}
+    {% include comments.html %}
+  </section>
 {% endif %}
